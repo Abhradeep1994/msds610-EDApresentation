@@ -1,6 +1,7 @@
 #### Here are notes from our discussion points last Tuesday (Sep 27)
 
 **Dataset**
+- The "titanic" dataset is more robust.
 - First choice is "cars" dataset.
 - Consider using "cereals" dataset.
 
