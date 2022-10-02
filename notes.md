@@ -1,8 +1,7 @@
 #### Here are notes from our discussion points last Tuesday (Sep 27)
 
 **Dataset**
-- The "titanic" dataset is more robust.
-- First choice is "cars" dataset.
+- First choice is "cars" dataset. 6 random data from WGT is deleted on purpose to demonstrate null value handling.
 - Consider using "cereals" dataset.
 
 **Visualizations to use**
