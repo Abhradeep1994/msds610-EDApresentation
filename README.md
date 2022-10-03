@@ -25,15 +25,16 @@ The dataset we chose to work with is the [Cars dataset](https://github.com/Abhra
 Cleaning and Identifying data types
 
 ### Bar Plots
-To find the best model, we compared the accuracy of three candidate models: 
+
 
 #### Scatter Plots    
+
 
 #### Other Plots
 
 
 ### Conclusion
-Data Cleaning
+
 
 
 Thank you for taking the time to read about our presentation on EDA. We hope you realized the importance of EDA and why a data scientist should do good EDA before taking any decision or steps
