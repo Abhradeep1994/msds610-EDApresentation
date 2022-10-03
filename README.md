@@ -13,7 +13,7 @@ This repository contains our group presentation for our MSDS 610: Communication 
 For this presentation we wanted to highlight the importance of EDA and showcase some basic EDA that we can implement have a better understanding of our data. 
 
 ## The Data
-The dataset we chose to work with is the [Cars dataset](https://github.com/Abhradeep1994/msds610-EDApresentation/blob/main/cars.csv). This dataset contains four variables and a total of which are :
+The dataset we chose to work with is the [Cars dataset](https://github.com/Abhradeep1994/msds610-EDApresentation/blob/main/cars.csv). This dataset contains four variables and a total of which are:
 - MPG
 - Cylinder
 - Engine 
