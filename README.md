@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
 
-**By**: Ensun, Steven and Abhradeep
+**By**: Ensun, Stephen and Abhradeep
 
 This repository contains our group presentation for our MSDS 610: Communication for Analytics course, where we are presenting our views on EDA and it's importance.
 
