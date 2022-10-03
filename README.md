@@ -10,10 +10,10 @@ This repository contains our group presentation for our MSDS 610: Communication 
 
 
 ## Goal 
-For this presentation we wanted to highlight the importance of EDA and showcase some basic EDA that we can implement have a better understanding of our data. 
+For this presentation we wanted to highlight the importance of EDA and showcase some basic EDA steps that we can implement to have a better understanding of our data. 
 
 ## The Data
-The dataset we chose to work with is the [Cars dataset](https://github.com/Abhradeep1994/msds610-EDApresentation/blob/main/cars.csv). This dataset contains  a total of 393 rows and four variables which are:
+The dataset we chose to work with is the [Cars dataset](https://github.com/Abhradeep1994/msds610-EDApresentation/blob/main/cars.csv). This dataset contains  a total of 392 rows and four variables which are:
 - MPG
 - Cylinder
 - Engine 
@@ -22,7 +22,10 @@ The dataset we chose to work with is the [Cars dataset](https://github.com/Abhra
 ## Our Process
 
 ### Data Processing 
-Cleaning and Identifying data types
+- Collecting basic information regarding the data:
+    - Data types
+    - Missing Values
+    - Treatment of missing values(There can be other ways, we are replacing the missing values with the median value of that variable)
 
 ### Summary Statistics and Plots 
 
