@@ -24,7 +24,9 @@ The dataset we chose to work with is the [Cars dataset](https://github.com/Abhra
 ### Data Processing 
 Cleaning and Identifying data types
 
-### Bar Plots
+### Summary Statistics and Plots 
+
+#### Bar Plots
 
 
 #### Scatter Plots    
