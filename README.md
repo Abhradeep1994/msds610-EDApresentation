@@ -23,13 +23,16 @@ The dataset we chose to work with is the [Cars dataset](https://github.com/Abhra
 
 ### Data Processing 
 - Collecting basic information regarding the data:
+<img width="574" alt="Screen Shot 2022-10-03 at 1 12 41 AM" src="https://user-images.githubusercontent.com/109040294/193530574-4ade3ac8-cf25-4b10-9418-1f43b85e4200.png">
     - Data types
     - Missing Values
     - Treatment of missing values(There can be other ways, we are replacing the missing values with the median value of that variable)
 
-### Summary Statistics and Plots 
+### Plots
 
-#### Bar Plots
+#### Histogram:
+Histograms are plotted to check the distributions of the variables in our dataset.
+<img width="904" alt="Screen Shot 2022-10-03 at 1 16 01 AM" src="https://user-images.githubusercontent.com/109040294/193531140-984c6d9b-fb58-4938-b3ac-20710bc8ebb4.png">
 
 
 #### Scatter Plots    
