@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
 
-**By**: Ensun, Stephen and Abhradeep
+**By**: Ensun Pak, Stephen Louie and Abhradeep Mukherjee
 
 This repository contains our group presentation for our MSDS 610: Communication for Analytics course, where we are presenting our views on EDA and it's importance.
 
@@ -56,6 +56,6 @@ git clone https://github.com/Abhradeep1994/msds610-EDApresentation.git
 ```
 You also need the following python libraries:
 ```
-pandas src ='https://pandas.pydata.org/'
-matplotlib src ='https://matplotlib.org/'
+pandas
+matplotlib
 ```
