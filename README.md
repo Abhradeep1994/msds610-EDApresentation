@@ -22,6 +22,7 @@ The dataset we chose to work with is the [Cars dataset](https://github.com/Abhra
 ### Data Processing 
 - Collecting basic information regarding the data:
 <img width="574" alt="Screen Shot 2022-10-03 at 1 12 41 AM" src="https://user-images.githubusercontent.com/109040294/193530574-4ade3ac8-cf25-4b10-9418-1f43b85e4200.png">
+
     - Data types
     - Missing Values
     - Treatment of missing values(There can be other ways, we are replacing the missing values with the median value of that variable)
